@@ -2,7 +2,7 @@ import React from "react";
 
 const ZaloContact: React.FC = () => {
   // Thay thế số điện thoại của bạn ở đây
-  const ZALO_PHONE = "0912345678";
+  const ZALO_PHONE = "0848998925";
 
   return (
     <a
